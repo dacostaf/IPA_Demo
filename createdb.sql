@@ -1,5 +1,5 @@
 CREATE TABLE stsheader (
-    [id] [int] Identity(1, 1) NOT NULL PRIMARY KEY,
+    [id] [int] AUTO_INCREMENT PRIMARY KEY,
     [filename] [char(300)] NOT NULL,
     [feature] [char(300)] NOT NULL,
     [test_id] [char(300)] NOT NULL,
