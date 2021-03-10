@@ -6,4 +6,4 @@ Feature: Configure
   TestType: Normal Case
   CreationDate: 2021-03-10T08:00:00Z
   Specifications: 10633
-  Issues:
+  Issues: n/a

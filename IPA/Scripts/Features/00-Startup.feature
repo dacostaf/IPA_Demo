@@ -6,4 +6,4 @@ Feature: Startup
   TestType: Normal Case
   CreationDate: 2018-12-10T08:00:00Z
   Specifications: 10632
-  Issues:
+  Issues: n/a

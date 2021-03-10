@@ -6,4 +6,4 @@ Feature: Shutdown
   TestType: Normal Case
   CreationDate: 2021-03-10T08:00:00Z
   Specifications: 10634
-  Issues:
+  Issues: n/a
